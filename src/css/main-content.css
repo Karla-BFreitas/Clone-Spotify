@@ -136,6 +136,11 @@
     grid-gap: 16px;
     gap: 16px;
     margin-bottom: 16px;
+
+    display: grid;
+    gap: 16px;
+    grid-gap: 32px;
+    margin: 0 auto;
 }
 
 .cards {
